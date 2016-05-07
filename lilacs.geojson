@@ -3,29 +3,25 @@
   "features": [
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Lilac Bush"
-      },
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.841310,
-          -71.391016
+          -71.39097332954407,
+          41.84126409481628
         ]
       }
     },
     {
       "type": "Feature",
-      "properties": {
-        "Name": "Lilac Bush"
-      },
+      "properties": {},
       "geometry": {
         "type": "Point",
         "coordinates": [
-          41.837092,
-          -71.388997
+          -71.38896703720093,
+          41.83711162905089
         ]
       }
     }
   ]
-};
+}
