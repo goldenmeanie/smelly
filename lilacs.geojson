@@ -1,0 +1,32 @@
+/* Lilac bushes you can smell from the sidewalk */
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lilac Bush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.841310,
+          -71.391016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Name": "Lilac Bush"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          41.841310,
+          -71.391016
+        ]
+      }
+    }
+  ]
+};
