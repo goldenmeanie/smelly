@@ -1,302 +1,425 @@
 {
-  "type": "FeatureCollection",
   "features": [
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Lilac"
+      },
       "geometry": {
-        "type": "Point",
         "coordinates": [
-          -71.39097332954407,
-          41.84126409481628
-        ]
-      }
+          -71.431976,
+          41.819107
+        ],
+        "type": "Point"
+      },
+      "id": "02c740736f334c7562bfbf68a38791c7"
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "name": "Lilac"
+      },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38896703720093,
-          41.83711162905089
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.43197625875473,
-          41.81910783410726
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.4315927028656,
-          41.81918979002576
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39255583286285,
-          41.826013751445615
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39181017875671,
-          41.832577180402595
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39125764369965,
-          41.8358206728566
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38222396373749,
-          41.836146411937776
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38324052095413,
-          41.83655408305322
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38663351535797,
-          41.839389723516874
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.387542784214,
-          41.840097115297546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38896703720093,
-          41.840380869125056
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38739794492722,
-          41.84197546230127
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38835817575455,
-          41.84396365251648
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38806581497192,
-          41.84408354140873
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38906091451645,
-          41.84472494316646
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39155805110931,
-          41.843599988169075
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39473915100098,
-          41.846555200679546
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.3984727859497,
-          41.84798380416527
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39840304851532,
-          41.84810568354517
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.40003383159637,
-          41.84436128314609
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38726115226744,
-          41.83289494200896
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.41487449407578,
-          41.83265512207471
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39140784740448,
-          41.83974741694826
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.39126032590866,
-          41.83988329996242
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -71.38938546180725,
-          41.841411963989536
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
-        "type": "Point",
         "coordinates": [
           -71.396129,
           41.851499
-        ]
-      }
+        ],
+        "type": "Point"
+      },
+      "id": "02c740736f334c7562bfbf68a38791c7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.389345,
+          41.84143
+        ],
+        "type": "Point"
+      },
+      "id": "04cf63d85aebf0064321c95b2155853a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.392555,
+          41.826013
+        ],
+        "type": "Point"
+      },
+      "id": "10511ffb3c8ba542573b776fd34fae08"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388967,
+          41.84038
+        ],
+        "type": "Point"
+      },
+      "id": "22da1c6a344a53601cbcc21be5067f1f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39126,
+          41.839883
+        ],
+        "type": "Point"
+      },
+      "id": "259ac6837ff41e77458c7f2e229c31d3"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388358,
+          41.843963
+        ],
+        "type": "Point"
+      },
+      "id": "265240f5a67809de53646bccc5302251"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.387261,
+          41.832894
+        ],
+        "type": "Point"
+      },
+      "id": "299b5cfb426afd5c04f84aa484b490dc"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.38906,
+          41.844724
+        ],
+        "type": "Point"
+      },
+      "id": "2eab8c4a33799a712b39bb8d89d45aad"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.396984,
+          41.844569
+        ],
+        "type": "Point"
+      },
+      "id": "30d898eb529f6be12ff39b1224b73547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.38324,
+          41.836554
+        ],
+        "type": "Point"
+      },
+      "id": "3455bfcd1c501600dc822a17bb88cd5f"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.396426,
+          41.845887
+        ],
+        "type": "Point"
+      },
+      "id": "376c8a23adf44c9fc4b8495ae47ff39d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.391558,
+          41.843599
+        ],
+        "type": "Point"
+      },
+      "id": "3e7a78b8c60799a8b70d8e1cf93de490"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.398472,
+          41.847983
+        ],
+        "type": "Point"
+      },
+      "id": "42a6add5a5077fb88b5169de38fd9670"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.400033,
+          41.844361
+        ],
+        "type": "Point"
+      },
+      "id": "47423a3ed6d2d7363fa683134dcf8b95"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.394739,
+          41.846555
+        ],
+        "type": "Point"
+      },
+      "id": "4f091ffa73bb6cfef4807887b2e63dc7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39181,
+          41.832577
+        ],
+        "type": "Point"
+      },
+      "id": "59a4c411c482f6bac4af372133499664"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.390913,
+          41.841294
+        ],
+        "type": "Point"
+      },
+      "id": "72add55c4ed0478e1ad912c77b6bfb1a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.431592,
+          41.819189
+        ],
+        "type": "Point"
+      },
+      "id": "7cd249d678c0a83c10fdb0ebab9b47a9"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.391257,
+          41.83582
+        ],
+        "type": "Point"
+      },
+      "id": "863f7d3e37e66c9bce1fba11c3445524"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.391407,
+          41.839747
+        ],
+        "type": "Point"
+      },
+      "id": "9fede5c01cb67ab0a1a5b474111e331b"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.391082,
+          41.841308
+        ],
+        "type": "Point"
+      },
+      "id": "b2e623a95fe576669d8bd1395c80e86e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.387542,
+          41.840097
+        ],
+        "type": "Point"
+      },
+      "id": "c3152bc7ce1d6150040f1478ec86d2b7"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.386633,
+          41.839389
+        ],
+        "type": "Point"
+      },
+      "id": "c7b6f468892690a8ea149bbeb38bc212"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.414874,
+          41.832655
+        ],
+        "type": "Point"
+      },
+      "id": "d1fc948d0aa1b7f89d0bffd3464c8b1d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.382223,
+          41.836146
+        ],
+        "type": "Point"
+      },
+      "id": "d3ba7128e6776f03ec2417b21b52316a"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.387397,
+          41.841975
+        ],
+        "type": "Point"
+      },
+      "id": "ed5fbd665a495e3e987e229ffcb5bd77"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.398403,
+          41.848105
+        ],
+        "type": "Point"
+      },
+      "id": "eff252a89990ea62fb649b382bcd114d"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388967,
+          41.837111
+        ],
+        "type": "Point"
+      },
+      "id": "fa9a81295ead4c1bc47cc022a9e96205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388065,
+          41.844083
+        ],
+        "type": "Point"
+      },
+      "id": "fdebd921377cfc493bc1905f90fd052e"
     }
-  ]
+  ],
+  "type": "FeatureCollection"
 }
