@@ -419,6 +419,20 @@
         "type": "Point"
       },
       "id": "fdebd921377cfc493bc1905f90fd052e"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.42941,
+          41.81592
+        ],
+        "type": "Point"
+      },
+      "id": "fdebd921377cfc493bc1905f90fd052e"
     }
   ],
   "type": "FeatureCollection"
