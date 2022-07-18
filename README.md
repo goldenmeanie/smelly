@@ -1,5 +1,5 @@
 # smelly
-A very local map (currently) of lilac bushes in Providence, RI that are accessible from the sidewalk.
+A very local map (currently) of lilac bushes in Providence, RI— that are accessible from the sidewalk.
 
 The map is at [goldenmeanie.net/lilac-walk](http://goldenmeanie.net/lilac-walk)
 
