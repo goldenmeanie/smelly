@@ -9,7 +9,7 @@
 title: Lilac Walk
 email: alex@goldenmeanie.net
 description: > # this means to ignore newlines until "baseurl:"
-  A very local map of lilac bushes in Providence, that you can reach from the sidewalk.
+  A very local map of lilac bushes in Providence, Rhode Island— that you can reach from the sidewalk.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://goldenmeanie.net/lilac-walk" # the base hostname & protocol for your site
 
