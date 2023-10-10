@@ -26,7 +26,7 @@
         ],
         "type": "Point"
       },
-      "id": "02c740736f334c7562bfbf68a38791c7"
+      "id": "02c740736f334c7562bfbf68a387917c"
     },
     {
       "type": "Feature",
@@ -432,7 +432,217 @@
         ],
         "type": "Point"
       },
-      "id": "fdebd921377cfc493bc1905f90fd052e"
+      "id": "fdebd921377cfc493bc1905f90fd05e2"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39017,
+          41.83274
+        ],
+        "type": "Point"
+      },
+      "id": "elmgrove83274"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39071,
+          41.83346
+        ],
+        "type": "Point"
+      },
+      "id": "elmgrove83346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.38930,
+          41.83100
+        ],
+        "type": "Point"
+      },
+      "id": "adelphi83346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.38224,
+          41.83207
+        ],
+        "type": "Point"
+      },
+      "id": "oriole83207"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.40495,
+          41.84227
+        ],
+        "type": "Point"
+      },
+      "id": "cypress84227"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39110,
+          41.86302
+        ],
+        "type": "Point"
+      },
+      "id": "blodgett86302"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39165,
+          41.86419
+        ],
+        "type": "Point"
+      },
+      "id": "sayles86419"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39694,
+          41.86573
+        ],
+        "type": "Point"
+      },
+      "id": "sayles86573"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.42935,
+          41.81563
+        ],
+        "type": "Point"
+      },
+      "id": "gilbert81563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.32961,
+          41.81062
+        ],
+        "type": "Point"
+      },
+      "id": "howland81062"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.33378,
+          41.81795
+        ],
+        "type": "Point"
+      },
+      "id": "arcade81795"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.30727,
+          41.83763
+        ],
+        "type": "Point"
+      },
+      "id": "prospect83763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.32749,
+          41.89332
+        ],
+        "type": "Point"
+      },
+      "id": "willis89332"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.32642,
+          41.89476
+        ],
+        "type": "Point"
+      },
+      "id": "central89476"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.32610,
+          41.89498
+        ],
+        "type": "Point"
+      },
+      "id": "central89498"
     }
   ],
   "type": "FeatureCollection"
