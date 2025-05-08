@@ -643,6 +643,20 @@
         "type": "Point"
       },
       "id": "central89498"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.39421,
+          41.85956
+        ],
+        "type": "Point"
+      },
+      "id": "trenton-glendale"
     }
   ],
   "type": "FeatureCollection"
