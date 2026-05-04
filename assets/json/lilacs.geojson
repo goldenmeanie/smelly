@@ -657,6 +657,34 @@
         "type": "Point"
       },
       "id": "trenton-glendale"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.401758,
+          41.827544
+        ],
+        "type": "Point"
+      },
+      "id": "waterman-angell-path"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.393787,
+          41.851289
+        ],
+        "type": "Point"
+      },
+      "id": "overhill-hope"
     }
   ],
   "type": "FeatureCollection"
