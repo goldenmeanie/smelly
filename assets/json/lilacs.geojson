@@ -685,6 +685,20 @@
         "type": "Point"
       },
       "id": "overhill-hope"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.3894495,
+          41.8230853
+        ],
+        "type": "Point"
+      },
+      "id": "gano-playing-field"
     }
   ],
   "type": "FeatureCollection"
