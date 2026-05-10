@@ -699,6 +699,34 @@
         "type": "Point"
       },
       "id": "gano-playing-field"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.385914,
+          41.842729
+        ],
+        "type": "Point"
+      },
+      "id": "265-blackstone"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388462,
+          41.835234
+        ],
+        "type": "Point"
+      },
+      "id": "mid-block-edison"
     }
   ],
   "type": "FeatureCollection"
