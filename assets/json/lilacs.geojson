@@ -727,6 +727,90 @@
         "type": "Point"
       },
       "id": "mid-block-edison"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.395759,
+          41.852823
+        ],
+        "type": "Point"
+      },
+      "id": "eighth-and-sarah"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.396482,
+          41.846468
+        ],
+        "type": "Point"
+      },
+      "id": "hope-near-library"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.394869,
+          41.846559
+        ],
+        "type": "Point"
+      },
+      "id": "morris-and-fosdyke"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.394783,
+          41.846515
+        ],
+        "type": "Point"
+      },
+      "id": "fosdyke-near-morris"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.394806,
+          41.849717
+        ],
+        "type": "Point"
+      },
+      "id": "near-seven-stars"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lilac"
+      },
+      "geometry": {
+        "coordinates": [
+          -71.388231,
+          41.845421
+        ],
+        "type": "Point"
+      },
+      "id": "slater-near-rochambeau"
     }
   ],
   "type": "FeatureCollection"
